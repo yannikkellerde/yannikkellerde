@@ -16,4 +16,5 @@ Do crabs think fish can fly?
 
 ![](https://www.codewars.com/users/yannikkellerde/badges/small)
 
-whatever floats your goat
+whatever floats your goat  
+zeitgeisty
