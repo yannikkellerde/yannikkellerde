@@ -17,5 +17,5 @@ Do crabs think fish can fly?
 ![](https://www.codewars.com/users/yannikkellerde/badges/small)
 
 whatever floats your goat  
-zeitgeisty
+zeitgeisty  
 Creativity is the process in which random noise is shaped by past influences. Novelty is it's product.
