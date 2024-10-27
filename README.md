@@ -1,3 +1,7 @@
+![clippy_me.gif](clippy_me.gif)
+
+Get your own Clippy AI assistant [here](https://github.com/yannikkellerde/AI-Snip)!
+
 Do crabs think fish can fly?
 
 ## Hi, I'm Yannik
