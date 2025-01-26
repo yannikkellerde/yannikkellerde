@@ -22,4 +22,3 @@ Do crabs think fish can fly?
 
 whatever floats your goat  
 zeitgeisty  
-Creativity is the process in which random noise is shaped by experience. Novelty is it's product.
