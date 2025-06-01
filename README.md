@@ -22,3 +22,4 @@ Do crabs think fish can fly?
 
 whatever floats your goat  
 zeitgeisty  
+Auf der Welt gibt es zwei Arten von Menschen. Die einen sind einfach nur Menschen, die anderen... Schnenschen.
