@@ -3,6 +3,7 @@
 Get your own Clippy AI assistant [here](https://github.com/yannikkellerde/AI-Snip)!
 
 Do crabs think fish can fly?
+Abgehoben, wie übermotivierte Heißluftballons.
 
 ## Hi, I'm Yannik
 * 🎓 PhD student at the [Max-Planck-Institute for Human Development](https://www.mpib-berlin.mpg.de/person/yannik-keller/367626)
