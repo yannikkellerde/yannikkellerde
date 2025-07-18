@@ -2,7 +2,7 @@
 
 Get your own Clippy AI assistant [here](https://github.com/yannikkellerde/AI-Snip)!
 
-Do crabs think fish can fly? 
+Do crabs think fish can fly?  
 Abgehoben, wie übermotivierte Heißluftballons.
 
 ## Hi, I'm Yannik
