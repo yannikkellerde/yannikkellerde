@@ -23,4 +23,5 @@ Abgehoben, wie übermotivierte Heißluftballons.
 
 whatever floats your goat  
 zeitgeisty  
-Auf der Welt gibt es zwei Arten von Menschen. Die einen sind einfach nur Menschen, die anderen... Schnenschen.
+Auf der Welt gibt es zwei Arten von Menschen. Die einen sind einfach nur Menschen, die anderen... Schnenschen.  
+Unschuld schützt vor Strafe nicht.
