@@ -1,6 +1,4 @@
-![clippy_me.gif](clippy_me.gif)
-
-Get your own Clippy AI assistant [here](https://github.com/yannikkellerde/AI-Snip)!
+[What Searle's Chinese room misses](https://yannikkeller.substack.com/p/what-searles-chinese-room-misses)
 
 Do crabs think fish can fly?  
 Abgehoben, wie übermotivierte Heißluftballons.
