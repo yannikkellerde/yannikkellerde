@@ -1,5 +1,3 @@
-[What Searle's Chinese room misses](https://yannikkeller.substack.com/p/what-searles-chinese-room-misses)
-
 Do crabs think fish can fly?  
 Abgehoben, wie übermotivierte Heißluftballons.
 
@@ -23,3 +21,5 @@ whatever floats your goat
 zeitgeisty  
 Auf der Welt gibt es zwei Arten von Menschen. Die einen sind einfach nur Menschen, die anderen... Schnenschen.  
 Unschuld schützt vor Strafe nicht.
+
+[What Searle's Chinese room misses](https://yannikkeller.substack.com/p/what-searles-chinese-room-misses)
