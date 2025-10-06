@@ -1,6 +1,6 @@
 Do crabs think fish can fly?  
 Abgehoben, wie übermotivierte Heißluftballons.  
-The great depression was not poggers.
+The Cuban missile crisis was not poggers.
 
 ## Hi, I'm Yannik
 * 🎓 PhD student at the [Max-Planck-Institute for Human Development](https://www.mpib-berlin.mpg.de/person/yannik-keller/367626)
