@@ -1,5 +1,5 @@
 Do crabs think fish can fly?  
-Abgehoben, wie übermotivierte Heißluftballons.
+Abgehoben, wie übermotivierte Heißluftballons.  
 The great depression was not poggers.
 
 ## Hi, I'm Yannik
