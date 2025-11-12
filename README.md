@@ -1,3 +1,4 @@
+Life begins at compilation!  
 Do crabs think fish can fly?  
 Abgehoben, wie übermotivierte Heißluftballons.  
 The Cuban missile crisis was not poggers.  
