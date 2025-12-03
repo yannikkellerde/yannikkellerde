@@ -24,7 +24,7 @@ whatever floats your goat
 zeitgeisty  
 Auf der Welt gibt es zwei Arten von Menschen. Die einen sind einfach nur Menschen, die anderen... Schnenschen.  
 Unschuld schützt vor Strafe nicht.  
-If a person never contradicts himself, it must be that he says nothing.
+If a person never contradicts himself, it must be that he says nothing.  
 Philosopher (derogatory)
 
 [What Searle's Chinese room misses](https://yannikkeller.substack.com/p/what-searles-chinese-room-misses)
