@@ -26,5 +26,6 @@ Auf der Welt gibt es zwei Arten von Menschen. Die einen sind einfach nur Mensche
 Unschuld schützt vor Strafe nicht.  
 If a person never contradicts himself, it must be that he says nothing.  
 Philosopher (derogatory)
+Karl Marx failed to consider that we're all going to be balls of light in a few years.
 
 [What Searle's Chinese room misses](https://yannikkeller.substack.com/p/what-searles-chinese-room-misses)
