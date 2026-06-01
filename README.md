@@ -29,3 +29,5 @@ Philosopher (derogatory)
 Karl Marx failed to consider that we're all going to be balls of light in a few years.
 
 [What Searle's Chinese room misses](https://yannikkeller.substack.com/p/what-searles-chinese-room-misses)
+
+Philosophy is a field with no evidence, no progress and no future, destined to circle the same questions for eternity.
