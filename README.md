@@ -4,6 +4,7 @@ Abgehoben, wie übermotivierte Heißluftballons.
 The Cuban missile crisis was not poggers.  
 God didn't get to be God by giving away money.
 
+Bishop went on vacation, never came back.
 ## Hi, I'm Yannik
 * 🎓 PhD student at the [Max-Planck-Institute for Human Development](https://www.mpib-berlin.mpg.de/person/yannik-keller/367626)
 * 🔬 Focus on Large Language Models, Reinforcement learning and computer-human interaction.
