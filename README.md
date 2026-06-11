@@ -2,8 +2,8 @@ Life begins at compilation!
 Do crabs think fish can fly?  
 Abgehoben, wie übermotivierte Heißluftballons.  
 The Cuban missile crisis was not poggers.  
-God didn't get to be God by giving away money.
-
+God didn't get to be God by giving away money.  
+Science isn't about why - it's about why not. Why is so much of our science dangerous? Why not marry safe science if you love it so much?  
 Bishop went on vacation, never came back.
 ## Hi, I'm Yannik
 * 🎓 PhD student at the [Max-Planck-Institute for Human Development](https://www.mpib-berlin.mpg.de/person/yannik-keller/367626)
