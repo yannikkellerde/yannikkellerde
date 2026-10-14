@@ -45,4 +45,6 @@ God didn't get to be God by giving away money.
 Science isn't about why - it's about why not. Why is so much of our science dangerous? Why not marry safe science if you love it so much?  
 
 Bishop went on vacation, never came back.
+
+every time a linguist leaves, the performance of our speech recognizer improves
 </details>
