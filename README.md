@@ -3,9 +3,9 @@ Life begins at compilation!
 ## Hi, I'm Yannik
 * 🎓 PhD student at the [Max-Planck-Institute for Human Development](https://www.mpib-berlin.mpg.de/person/yannik-keller/367626)
 * 🔬 Focus on Large Language Models, Reinforcement learning and computer-human interaction.
-* 💻 I mostly code in Python recently, but I have experience in Javascript and C++.
-* 💬 I speak english and german
-* 📝 Check my publications at [Google Scholar](https://scholar.google.com/citations?user=STlGbvcAAAAJ&hl=en)
+* 💻 I mostly Claude Code recently, but I learned Python, Javascript and C++ the pre-AI way.
+* 💬 I speak English and German.
+* 📝 Check my publications at [Google Scholar](https://scholar.google.com/citations?user=STlGbvcAAAAJ&hl=en).
 * 🌐 Check my personal website [yannikkeller.de](https://yannikkeller.de) for projects I share. Some say that this is the best website in the internet.
 
 <picture>
@@ -49,4 +49,6 @@ Science isn't about why - it's about why not. Why is so much of our science dang
 Bishop went on vacation, never came back.  
 
 every time a linguist leaves, the performance of our speech recognizer improves  
+
+Hot Dogs are immune to poison
 </details>
