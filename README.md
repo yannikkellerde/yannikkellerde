@@ -50,5 +50,7 @@ Bishop went on vacation, never came back.
 
 every time a linguist leaves, the performance of our speech recognizer improves  
 
-Hot Dogs are immune to poison
+Hot Dogs are immune to poison. 
+
+Einen Finger kann man brechen, aber fünf Finger, das ist eine Faust.
 </details>
