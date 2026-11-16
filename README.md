@@ -52,5 +52,7 @@ every time a linguist leaves, the performance of our speech recognizer improves
 
 Hot Dogs are immune to poison. 
 
-Einen Finger kann man brechen, aber fünf Finger, das ist eine Faust.
+Einen Finger kann man brechen, aber fünf Finger, das ist eine Faust.  
+
+You insist that there is something that a machine can't do. If you will tell me precisely what it is that a machine cannot do, then I can always make a machine which will do just that.
 </details>
