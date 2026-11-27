@@ -53,4 +53,6 @@ every time a linguist leaves, the performance of our speech recognizer improves
 Hot Dogs are immune to poison. 
 
 Einen Finger kann man brechen, aber fünf Finger, das ist eine Faust.  
+
+There are decades where weeks happen and there are weeks where nothing happens.  
 </details>
